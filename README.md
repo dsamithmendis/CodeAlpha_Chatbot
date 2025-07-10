@@ -18,5 +18,3 @@ This is a simple Python chatbot that responds to predefined user inputs.
    ```bash
    python chatbot.py
    ```
-
-Enjoy chatting with your first AI bot! 🤖
